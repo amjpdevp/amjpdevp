@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on PHP<br>🤝 I’m looking for help with anyone<br>🌱 I’m currently learning everything<br>💬 Ask me about anything<br>
+🔭 I’m an experienced Laravel, React, and React Native developer<br>🤝 I’m looking to collaborate with others<br>🌱 I’m always learning and exploring new technologies<br>💬 Let's Build Together
+
 
 
 # 💻 Tech Stack:
