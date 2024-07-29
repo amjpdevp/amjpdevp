@@ -10,6 +10,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amjpdevp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amjpdevp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 Dev Community Contribution :
+<a href="https://app.daily.dev/adityajodhani"><img src="https://api.daily.dev/devcards/v2/54NoC1EKORzdeWbyF8Bqc.png?type=default&r=p0f" width="356" alt="Aditya Jodhani's Dev Card"/></a>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
