@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m an experienced Laravel, React, and React Native developer<br>🤝 I’m looking to collaborate with others<br>🌱 I’m always learning and exploring new technologies<br>💬 Let's Build Together
+💻 Senior FullStack Engineer who thinks like a product owner, not just a engineer.<br>
+📈 Sharp business mindset focused on scalable digital products and market-fit ideas.<br>
+🔥 A rare mix of execution, strategy, and relentless ambition to build something massive.<br>
+🌍 Building strong digital presence systems that turn startups into market leaders.
 
 
 
